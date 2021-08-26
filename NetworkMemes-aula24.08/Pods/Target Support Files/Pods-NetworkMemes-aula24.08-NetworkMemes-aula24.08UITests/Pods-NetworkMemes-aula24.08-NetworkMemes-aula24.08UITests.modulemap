@@ -1,0 +1,6 @@
+framework module Pods_NetworkMemes_aula24_08_NetworkMemes_aula24_08UITests {
+  umbrella header "Pods-NetworkMemes-aula24.08-NetworkMemes-aula24.08UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

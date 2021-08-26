@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_NetworkMemes_aula24_08_NetworkMemes_aula24_08UITests : NSObject
+@end
+@implementation PodsDummy_Pods_NetworkMemes_aula24_08_NetworkMemes_aula24_08UITests
+@end
